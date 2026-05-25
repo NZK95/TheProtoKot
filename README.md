@@ -49,6 +49,18 @@
 - Telegram Bot Token (от `@BotFather`)
 - Windows 11
 
+## Установка
+
+## Конфигурация
+Все параметры задаются в файле `appsettings.json`:
+ 
+```json
+{
+  "BotToken": "ВАШ_TELEGRAM_BOT_TOKEN",
+  "AdminId": 123456789
+}
+```
+
 ## Команды
 | Команда | Описание |
 |---|---|
@@ -60,7 +72,11 @@
 <img src="media/database-schema.png" />
 
 ## Устранение неполадок / Предложение идеи
-Откройте [issues](https://github.com/NZK95/TheProtoKot/issues), выберите нужную форму и заполните её максимально подробно.
+**Прочие ошибки**  
+Открой [Issue](https://github.com/NZK95/TheProtoKot/issues/new?template=bug_report.md) с описанием проблемы и текстом ошибки из консоли — постараюсь помочь.
+ 
+**Есть идея или предложение?**  
+Буду рад новым идеям — открывай [Feature Request](https://github.com/NZK95/TheProtoKot/issues/new?template=feature_request.md) и описывай что хочется видеть в боте.
  
 ## Лицензия
 Проект распространяется под лицензией [MIT](LICENSE).
