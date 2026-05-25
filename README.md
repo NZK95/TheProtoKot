@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾ＴｈｅＰｒｏｔｏＫｏｔ
+# 🐾𝚃𝚑𝚎𝙿𝚛𝚘𝚝𝚘𝙺𝚘𝚝
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
 [![Downloads](https://img.shields.io/github/downloads/NZK95/TheProtoKot/total?style=flat-square&color=brightgreen)](https://github.com/NZK95/TheProtoKot/releases)
 ![GitHub Stars](https://img.shields.io/github/stars/NZK95/TheProtoKot?style=flat-square)
