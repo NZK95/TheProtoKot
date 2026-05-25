@@ -17,6 +17,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 </div>
 
+---
+
 ## Содержание
 - [Возможности](#возможности)
 - [Требования](#требования)
@@ -53,11 +55,14 @@
 | `/report` | Предложить идею или сообщить об проблеме в официальном телеграм канале **ПротоКота**. |
 | `/coder` | Показать информацию о кодере и автора бота. |
 
-## Устранение неполадок
-Откройте [issues](https://github.com/NZK95/TheProtoKot/issues) с описанием проблемы и логами из консоли.
+## Устранение неполадок / Предложение идеи
+Откройте [issues](https://github.com/NZK95/TheProtoKot/issues), выберите нужную форму и заполните её максимально подробно.
  
 ## Лицензия
 Проект распространяется под лицензией [MIT](LICENSE).
+
+---
+
 
 <div align="center">
 <img src="media/cat.png" width="400"/>
