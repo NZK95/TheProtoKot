@@ -59,6 +59,9 @@
 ## Лицензия
 Проект распространяется под лицензией [MIT](LICENSE).
 
+---
+
+
 <div align="center">
 <img src="media/cat.png" width="400"/>
  
