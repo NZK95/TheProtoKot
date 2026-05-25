@@ -67,9 +67,5 @@
 
 ---
 
-<div align="center">
- 
 [![Telegram](https://img.shields.io/badge/Telegram-канал-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TheProtoKot#)
-
-</div>
 
