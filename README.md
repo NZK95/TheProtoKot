@@ -58,3 +58,11 @@
  
 ## Лицензия
 Проект распространяется под лицензией [MIT](LICENSE).
+
+<div align="center">
+<img src="media/cat.png" width="400"/>
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-канал-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TheProtoKot#)
+
+</div>
+
