@@ -5,7 +5,6 @@
 
 <img src="СЮДА_СКРИНШОТ_ИЛИ_GIF" width="500"/>
 
-</div>
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
 [![Downloads](https://img.shields.io/github/downloads/NZK95/TheProtoKot/total?style=flat-square&color=brightgreen)](https://github.com/NZK95/TheProtoKot/releases)
@@ -16,6 +15,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+</div>
 
 ## Содержание
 - [Возможности](#возможности)
