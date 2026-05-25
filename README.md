@@ -56,7 +56,7 @@
 | `/coder` | Показать информацию о кодере и автора бота. |
 
 ## Схема базы данных
-<img src="media/database-schema.png" width="400"/>
+<img src="media/database-schema.png" />
 
 ## Устранение неполадок / Предложение идеи
 Откройте [issues](https://github.com/NZK95/TheProtoKot/issues), выберите нужную форму и заполните её максимально подробно.
