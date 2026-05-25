@@ -3,7 +3,7 @@
 # 🐾ᴛʜᴇᴘʀᴏᴛᴏᴋᴏᴛ
 Многопользовательский Telegram-бот для игры **Amazing Online**, который предоставляет автоматизацию, инструменты, мониторинг и набор вспомагательных функций упрощающих повседневненные игровые задачи.
 
-<img src="media/cat.gif" width="400"/>
+<img src="media/cat2.gif" width="400"/>
 
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
