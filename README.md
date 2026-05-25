@@ -5,7 +5,7 @@
 
 <img src="media/cat2.gif" width="400"/>
 
-
+[![Build](https://img.shields.io/github/actions/workflow/status/NZK95/TheProtoKot/build.yml?style=flat-square&label=build)](https://github.com/NZK95/TheProtoKot/actions)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
 [![Downloads](https://img.shields.io/github/downloads/NZK95/TheProtoKot/total?style=flat-square&color=brightgreen)](https://github.com/NZK95/TheProtoKot/releases)
 ![GitHub Stars](https://img.shields.io/github/stars/NZK95/TheProtoKot?style=flat-square)
