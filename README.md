@@ -7,7 +7,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/NZK95/TheProtoKot?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/NZK95/TheProtoKot?style=flat-square)
 [![Platform](https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-![.NET](https://img.shields.io/badge/.NET-8.0+-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 Многопользовательский Telegram-бот для игры **Amazing Online** на написанный на .NET, который предоставляет автоматизацию, инструменты, мониторинг и набор вспомагательных функций упрощающих повседневненные игровые задачи.
