@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="30"/> ᴛʜᴇᴘʀᴏᴛᴏᴋᴏᴛ</h1>
+
 Многопользовательский Telegram-бот для игры **Amazing Online**, который предоставляет автоматизацию, инструменты, мониторинг и набор вспомагательных функций упрощающих повседневненные игровые задачи.
 
 <img src="media/cat2.gif" width="400"/>
