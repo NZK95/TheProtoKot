@@ -29,9 +29,9 @@
 
 <img src="media/demo/4.png" width="30%"/> <img src="media/demo/5.png" width="30%"/> <img src="media/demo/6.png" width="30%"/> <img src="media/demo/7.png" width="30%"/>  
 
- <img src="media/demo/8.png" width="30%"/> <img src="media/demo/9.png" width="30%"/> <img src="media/demo/11.png" width="30%"/>
+ <img src="media/demo/8.png" width="30%"/> <img src="media/demo/9.png" width="30%"/> <img src="media/demo/11.png" width="40%" height="50%"/>
 
-<img src="media/demo/10.png" width="45%"/> 
+<img src="media/demo/10.png" width="45%" /> 
 
 </div>
 
