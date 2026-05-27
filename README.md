@@ -21,17 +21,26 @@
 ---
 
 ## Обзор, демонстрация и скриншоты
-## Обзор, демонстрация и скриншоты
+
+---
 
 <div align="center">
 
 <img src="media/demo/1.png" width="30%"/> <img src="media/demo/2.png" width="30%"/> <img src="media/demo/3.png" width="30%"/>
 
+---
+
 <img src="media/demo/4.png" width="30%"/> <img src="media/demo/5.png" width="30%"/> <img src="media/demo/6.png" width="30%"/> <img src="media/demo/7.png" width="30%"/>  
 
- <img src="media/demo/8.png" width="30%"/> <img src="media/demo/9.png" width="30%"/> <img src="media/demo/11.png" width="35%" />
+---
+
+<img src="media/demo/8.png" width="30%"/> <img src="media/demo/9.png" width="30%"/> <img src="media/demo/11.png" width="35%" />
+
+---
 
 <img src="media/demo/10.png" width="45%" height="45%" /> 
+
+---
 
 </div>
 
@@ -65,6 +74,7 @@
 - **⚠️ Чекер жалоб** - Инструмент для отслеживания жалоб на форуме Amazing Online. Пользователь привязывает аккаунт, указывая игровой ник и маску, после чего бот автоматически уведомляет о новых жалобах и предоставляет подробную информацию.
 
 - **💡 Подсказки и AHK** - Раздел с полезными подсказками и AHK-скриптами для различных серверов и фракций.
+
 
 ## Команды
 | Команда | Описание |
