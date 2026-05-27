@@ -75,6 +75,8 @@
 
 - **💡 Подсказки и AHK** - Раздел с полезными подсказками и AHK-скриптами для различных серверов и фракций.
 
+> [!NOTE]
+> Пользователь должен подписать на телеграм канал для использования бота.
 
 ## Команды
 | Команда | Описание |
@@ -85,7 +87,16 @@
 
 ## Библиотеки
 
-## Структура проекта
+| Библиотека | Версия | Назначение |
+|---|---|---|
+| [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) | 22.8.1 | Работа с Telegram Bot API |
+| [Microsoft.Playwright](https://playwright.dev/dotnet) | 1.58.0 | Парсинг форума (чекер жалоб) |
+| [SixLabors.ImageSharp](https://github.com/SixLabors/ImageSharp) | 3.1.12 | Генерация и обработка изображений |
+| [DocX](https://github.com/xceedsoftware/DocX) | 5.0.0 | Создание и редактирование DOCX |
+| [Spire.Doc](https://www.e-iceblue.com/Introduce/spire-doc-for-net.html) | 14.1.12 | Конвертация DOCX в изображения |
+| [EPPlus](https://github.com/EPPlusSoftware/EPPlus) | 8.4.2 | Чтение Excel-таблиц (чёрные списки) |
+| [Microsoft.Data.Sqlite.Core](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite) | 10.0.2 | Работа с SQLite базами данных |
+| [Microsoft.Extensions.Hosting](https://learn.microsoft.com/en-us/dotnet/core/extensions/hosting) | 10.0.2 | DI-контейнер и фоновый хост-сервис |
 
 <details>
 <summary>Нажмите сюда, чтобы посмотреть.</summary>
