@@ -1,8 +1,8 @@
-﻿using clrhost;
+﻿using AmazingBot;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace clrhost
+namespace AmazingBot
 {
     internal static class DocumentService
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace clrhost
+namespace AmazingBot
 {
     internal class ReportCheckerState
     {

@@ -3,7 +3,7 @@ using System.Text;
 using OfficeOpenXml;
 using OfficeOpenXml.Configuration;
 
-namespace clrhost
+namespace AmazingBot
 {
     internal sealed class Program
     {

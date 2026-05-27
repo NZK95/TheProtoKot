@@ -1,7 +1,7 @@
 ﻿using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
-using clrhost;
+using AmazingBot;
 
 internal sealed partial class TelegramBot
 {

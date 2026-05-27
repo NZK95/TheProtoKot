@@ -2,7 +2,7 @@
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
-using clrhost;
+using AmazingBot;
 
 internal sealed partial class TelegramBot
 {

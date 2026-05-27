@@ -1,4 +1,4 @@
-﻿using clrhost;
+﻿using AmazingBot;
 
 internal sealed class ImageServiceOptions
     {

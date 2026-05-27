@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using System.Text.Json;
-using clrhost;
+using AmazingBot;
 
 internal static class EventService
 {

@@ -1,7 +1,7 @@
-﻿using clrhost;
+﻿using AmazingBot;
 using Microsoft.Extensions.Options;
 
-namespace clrhost
+namespace AmazingBot
 {
     internal sealed class Worker(
         IOptions<TelegramOptions> telegramOptions,

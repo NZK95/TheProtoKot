@@ -1,4 +1,4 @@
-﻿using clrhost;
+﻿using AmazingBot;
 
 internal static class Timers
 {

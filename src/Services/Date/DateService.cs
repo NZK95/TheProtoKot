@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace clrhost
+namespace AmazingBot
 {
     internal static class DateService
     {

@@ -1,4 +1,4 @@
-﻿using clrhost;
+﻿using AmazingBot;
 using Telegram.Bot;
 
 internal sealed class EventNotifier

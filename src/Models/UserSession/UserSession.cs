@@ -1,4 +1,4 @@
-﻿using clrhost;
+﻿using AmazingBot;
 using System.Text.Json.Serialization;
 
 internal sealed class UserSession

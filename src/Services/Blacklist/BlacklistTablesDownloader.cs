@@ -1,4 +1,4 @@
-﻿using clrhost;
+﻿using AmazingBot;
 using System.Net.Http;
 
 internal sealed class BlacklistTablesDownloader

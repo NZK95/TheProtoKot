@@ -1,5 +1,5 @@
 ﻿using System.Text.Json.Serialization;
-using clrhost;
+using AmazingBot;
 
 [JsonSourceGenerationOptions(
     GenerationMode = JsonSourceGenerationMode.Metadata,

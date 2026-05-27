@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using Telegram.Bot.Types.ReplyMarkups;
-using clrhost;
+using AmazingBot;
 
 internal sealed class KeyboardFactory
 {

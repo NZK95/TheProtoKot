@@ -1,5 +1,5 @@
 ﻿using Microsoft.Data.Sqlite;
-using clrhost;
+using AmazingBot;
 
 internal sealed class EventsDatabase
 {

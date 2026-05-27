@@ -1,4 +1,4 @@
-﻿namespace clrhost
+﻿namespace AmazingBot
 {
     internal static class PathService
     {
