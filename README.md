@@ -54,6 +54,17 @@
 
 ## Библиотеки
 
+## Структура проекта
+
+<details>
+<summary>Нажмите сюда, чтобы посмотреть.</summary>
+
+![Структура проекта](media/images/project-schema.png)
+
+</details>
+
+## Структура рабочей директории
+
 ## Структура базы-данных
 <img src="media/database-schema.png" />
 
