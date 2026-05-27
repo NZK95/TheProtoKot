@@ -4,7 +4,7 @@
 
 Многопользовательский Telegram-бот для игры **Amazing Online**, который предоставляет автоматизацию, инструменты, мониторинг и набор вспомагательных функций упрощающих повседневненные игровые задачи.
 
-<img src="media/cat2.gif" width="400"/>
+<img src="media/gifs/cat2.gif" width="400"/>
 
 [![Build](https://img.shields.io/github/actions/workflow/status/NZK95/TheProtoKot/build.yml?style=flat-square&label=build)](https://github.com/NZK95/TheProtoKot/actions)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
@@ -85,7 +85,7 @@
 </details>
 
 ## Структура базы-данных
-<img src="media/database-schema.png" />
+<img src="media/images/database-schema.png" />
 
 ## Ответы на частые вопросы (FAQ)
 
