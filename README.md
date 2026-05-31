@@ -6,9 +6,7 @@
 
 <img src="media/gifs/cat2.gif" width="400"/>
 
-[![Build](https://img.shields.io/github/actions/workflow/status/NZK95/TheProtoKot/build.yml?style=flat-square&label=build)](https://github.com/NZK95/TheProtoKot/actions)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/NZK95/TheProtoKot?style=flat-square)
-[![Downloads](https://img.shields.io/github/downloads/NZK95/TheProtoKot/total?style=flat-square&color=brightgreen)](https://github.com/NZK95/TheProtoKot/releases)
 ![GitHub Stars](https://img.shields.io/github/stars/NZK95/TheProtoKot?style=flat-square)
 ![GitHub Issues](https://img.shields.io/github/issues/NZK95/TheProtoKot?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/NZK95/TheProtoKot?style=flat-square)
@@ -19,6 +17,7 @@
 </div>
 
 ---
+
 > [!IMPORTANT]
 > На данный момент здесь будет только код, возможно в будущем выложу исполняемый файл со всеми assets и инструкциями к установке и конфигурации.
 
