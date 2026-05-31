@@ -144,7 +144,7 @@
 Открой [Issue](https://github.com/NZK95/TheProtoKot/issues/new?template=bug_report.md) с описанием проблемы и текстом ошибки из консоли — постараюсь помочь.
  
 **Есть идея или предложение?**  
-Буду рад новым идеям — открывай [Feature Request](https://github.com/NZK95/TheProtoKot/issues/new?template=feature_request.md) и описывай что хочется видеть в боте.
+Буду рад новым идеям — открывай [Feature Request](https://github.com/NZK95/TheProtoKot/issues/new?template=feature.request.md) и описывай что хочется видеть в боте.
  
 ## Лицензия
 Проект распространяется под лицензией [MIT](LICENSE).
